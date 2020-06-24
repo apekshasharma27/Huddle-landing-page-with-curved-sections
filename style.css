@@ -243,6 +243,7 @@ padding: 4rem 4rem 4rem 6rem;
   .container
   {
     width:95%;
+    padding-top:3rem;
   }
   .company_logo img
   {
